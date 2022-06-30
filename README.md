@@ -1,2 +1,2 @@
-# OTP_Verification_Via_Email
-I developed the OTP Generator on email using python
+# OTP_Verification_Using_Python
+I have developed, OTP Generator using python
